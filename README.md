@@ -5,7 +5,6 @@ By Jihyun Park (jihyunp@ics.uci.edu)
 Department of Computer Science, University of California, Irvine
 June 2, 2017 (Modified on Aug 25, 2017)
 
----------------------------------------------------
 
 # Outline
 ## Part 1 : Warm Up
