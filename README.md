@@ -1,9 +1,9 @@
 # IVLE Python Clickstream Workshop
 An entry-level tutorial using Python and its packages to work with the Canvas LMS clickstream data.
 
-By Jihyun Park (jihyunp@ics.uci.edu)
-Department of Computer Science, University of California, Irvine
-June 2, 2017 (Modified on Aug 25, 2017)
+By Jihyun Park (jihyunp@ics.uci.edu)<br>
+Department of Computer Science, University of California, Irvine<br>
+June 2, 2017 (Modified on Aug 25, 2017) 
 
 
 # Outline
